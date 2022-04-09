@@ -14,7 +14,7 @@
     "csv-parse": "^4.8.8",
     "csv-parser": "^2.3.2",
     "express": "^4.17.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.28"
   },
   "devDependencies": {
